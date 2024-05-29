@@ -1,16 +1,11 @@
 # pet_adoption_app
 
-A new Flutter project.
+Flutter Pet Adoption App
+contains:
+Home Page
+Details Page
+History Page
 
-## Getting Started
+https://github.com/SheralDsouza57/Pet-Adoption-App/assets/123448228/5f756ca9-2976-47e1-b8c6-f2291be23182
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/SheralDsouza57/Pet-Adoption-App/assets/123448228/d917ac33-19c1-4c35-8fac-e184fa967156
